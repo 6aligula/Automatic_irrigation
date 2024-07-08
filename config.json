@@ -1,0 +1,11 @@
+{
+  "PUBinterval": 1,
+  "mqtt_username": "admin",
+  "mqtt_password": "lokodeldiablo",
+  "mqtt_broker": "192.168.1.243",
+  "mqtt_port": 1883,
+  "mqtt_timeout": 60,
+  "topic_riego": "casa/riego",
+  "topic_riego_control": "casa/riego-control"
+  
+}
